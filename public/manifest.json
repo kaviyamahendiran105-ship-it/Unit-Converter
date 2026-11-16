@@ -1,0 +1,12 @@
+{
+  "short_name": "Unit Converter",
+  "name": "Unit Converter",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "64x64", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "logo.svg", "sizes": "256x256", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#126681",
+  "background_color": "#eef5f8"
+}

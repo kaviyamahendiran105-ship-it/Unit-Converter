@@ -1,0 +1,4 @@
+.category-tabs { display: flex; flex-wrap: wrap; gap: .48rem; margin-bottom: 1.25rem; padding: .35rem; border: 1px solid rgba(218,232,238,.8); border-radius: 20px; background: rgba(255,255,255,.48); }
+.category-tab { border: 1px solid transparent; background: transparent; color: #58748b; border-radius: 14px; padding: .55rem .86rem; font-size: .77rem; font-weight: 700; cursor: pointer; transition: .2s ease; }
+.category-tab:hover { background: #eef7f8; color: #2b607c; transform: translateY(-1px); }
+.category-tab.active { background: #1d6688; color: white; box-shadow: 0 7px 15px -10px #164b65; }

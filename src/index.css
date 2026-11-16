@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { color-scheme: light; }
+body { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #eef5f8; color: #17364a; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+html[data-theme='dark'], html[data-theme='dark'] body { background: #0f2634; }
+button, input, select { font: inherit; }
+button:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid rgba(33, 126, 156, .24); outline-offset: 2px; }
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace; }
+* { scroll-behavior: smooth; }
+::selection { background: rgba(43, 108, 143, .2); color: #05405e; }
